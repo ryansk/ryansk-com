@@ -3,9 +3,10 @@
 ## PROFESSIONAL PROFILE
 
 A results-driven Systems and Network Engineering professional with over 15 years’ success in the IT industry including planning, creating, and managing infrastructure and developer tooling. Experienced with network security services including threat detection, incident response, and specialized security. Highly adaptable in the dynamic ICT landscape and demonstrates excellent troubleshooting, technical support, and advanced stakeholder engagement capabilities. Collaborates effectively in team settings, handles concurrent projects in deadline-driven environments, and applies an analytical and systematic approach to solving problems.
-#
 
-| RYAN'S | CORE | COMPETENCIES |
+## Core Competencies
+
+|  |  |  |
 | -- | -- | -- |
 | Cyber Security | Configuration Management | Kubernetes |
 | Cloud Native | Hardware and Special Systems | Network Engineering |
