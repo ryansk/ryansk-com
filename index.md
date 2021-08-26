@@ -6,7 +6,7 @@ A results-driven Systems and Network Engineering professional with over 15 years
 
 ## Technical Competencies
 
-| RYANS | CORE | COMPETENCIES |
+| | | |
 | -- | -- | -- |
 | Cyber Security | Configuration Management | Kubernetes |
 | Cloud Native | Hardware and Special Systems | Network Engineering |
